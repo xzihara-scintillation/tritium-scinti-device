@@ -101,7 +101,7 @@ The maximum and average beta energies of tritium are 18.6 keV and 5.7 keV, with 
 <img src="images02/Fig6.png" width="600">
 </p>
 <p align="center" class="caption"> 
-  Fig. 6 Relationship between water absorption capacity (*W<sub>HTO</sub>*/g) of PS stack and thickness of water film between PS disks (d/&mu;m).
+  Fig. 6 Relationship between water absorption capacity (&W<sub>HTO</sub>;/g) of PS stack and thickness of water film between PS disks (d/&mu;m).
 </p>
 
 
