@@ -4,7 +4,8 @@ The study reports the fundamental experimental results of a plastic‑scintillat
 The translation has been prepared by the author for broader accessibility.<Br>
 Proceedings of the 26th Workshop on Environmental Radioactivity, vol. 26, P130 (2025).
 <a href="https://rcwww.kek.jp/enviconf/information.html" target="_blank">
-https://rcwww.kek.jp/enviconf/information.html</a></h5>
+https://rcwww.kek.jp/enviconf/information.html
+</a></h5>
 
 ----------------------------------------------------------------------------------------------------------------------------
 
