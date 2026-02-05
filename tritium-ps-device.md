@@ -5,10 +5,10 @@ The translation has been prepared by the author for broader accessibility.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Abstract
+<b>Abstract</b><br>
 A hydrophilic plastic scintillator (PS) device was developed for cocktail‑free, continuous monitoring of tritiated water (HTO) in treated water discharged from the Fukushima Daiichi Nuclear Power Plant. Thin PS films fabricated from BC‑400 resin were plasma‑treated to enhance surface hydrophilicity and stacked to form a multilayer detection structure. Capillary‑driven water uptake between films enabled efficient contact between HTO and the scintillator. Fundamental performance was evaluated using liquid scintillation counting (LSC) by varying HTO concentration, absorbed water mass, and PS film thickness. The calibration curve exhibited good linearity from 1.5 to 185 Bq/g, with counting efficiency decreasing from 4.5% to 2.0% across this range. Among film thicknesses of 30, 40, and 50 μm, the 40 μm PS stack demonstrated the highest device efficiency. These results indicate that plasma‑treated PS stacks are a promising platform for continuous tritium monitoring without the use of liquid scintillation cocktails.
 
-1. Introduction
+<b>1. Introduction</b><br>
 The Fukushima Daiichi Nuclear Power Plant accident generated a large volume of contaminated water. After the removal of radionuclides other than tritium by the Advanced Liquid Processing System (ALPS), the Japanese government approved the discharge of the treated water into the ocean in 2023. The tritium concentration at discharge is regulated at 1,500 Bq/L, and monitoring is primarily conducted using liquid scintillation counting (LSC).
 
 LSC requires pretreatment such as distillation of sampled water, followed by mixing with a liquid scintillation cocktail. This batch‑type method has several limitations. Although ALPS‑treated water is thoroughly diluted and homogenized, temporary increases in tritium concentration may be missed depending on sampling intervals. When seawater is present, distillation is required, delaying measurement and preventing real‑time monitoring. Furthermore, the use of organic solvents in scintillation cocktails generates organic radioactive waste, highlighting the need for a cocktail‑free continuous monitoring technique.
@@ -17,8 +17,8 @@ Several cocktail‑free approaches have been investigated, including the use of 
 
 Based on these considerations, we fabricated a prototype tritium detection device using plasma‑treated PS films for cocktail‑free continuous monitoring of ALPS‑treated water. The detection unit consists of a multilayer stack of hydrophilized PS films (PS stack), which maximizes contact area with HTO water and enables capillary‑driven permeation between layers. In this study, we report fundamental performance evaluations of the PS stack using HTO water and LSC.
 
-2. Experimental Methods
-2.1 Plasma‑Treated PS Disks and Their Characteristics
+<b>2. Experimental Methods</b><br>
+<b>2.1 Plasma‑Treated PS Disks and Their Characteristics</b><br>
 Thin PS films were fabricated from BC‑400 cast resin (polyvinyltoluene‑based, LUXIUM) using a casting method. The resulting films measured 28 cm × 28 cm with a thickness of 30 ± 8 μm unless otherwise noted. The films were cut into 2‑cm‑wide strips and subjected to low‑temperature plasma treatment to impart hydrophilicity. Plasma treatment was performed using ion‑exchanged water as the plasma source at 120 Pa and 75 W for 1 min, irradiating both sides simultaneously. Circular PS disks (φ15 mm) with a central hole (φ3 mm) were then punched from the treated strips.
 
 Figure 1 compares the water contact angles of untreated and plasma‑treated PS surfaces. The untreated film exhibited a contact angle of 96°, whereas the plasma‑treated disk showed a reduced angle of 41°, confirming successful hydrophilization.
@@ -37,7 +37,7 @@ To evaluate capillary behavior, six PS disks were stacked and suspended as shown
 <img src="images02/Fig2.png" width="500">
 </p>
 <p align="center" class="caption"> 
-  Fig. 2 Due to two-dimensional capillary action, rhodamine B solution enters gaps between PS disks (completed in 8 seconds).
+  Fig. 2 Due to two-dimensional capillary action, rhodamine B solution enters gaps<br> between PS disks (completed in 8 seconds).
 </p>
 
 Figure 3 shows the scintillation behavior of a PS disk under 395‑nm UV irradiation. Stronger emission was observed along the outer circumference of the disk.
@@ -46,11 +46,11 @@ Figure 3 shows the scintillation behavior of a PS disk under 395‑nm UV irradia
 <img src="images02/Fig3.png" width="500">
 </p>
 <p align="center" class="caption"> 
-  Fig. 3 Fluorescence characteristics of PS disks by UV irradiation - The outer circumference of the PS disk primarily emits light.
+  Fig. 3 Fluorescence characteristics of PS disks by UV irradiation<br> - The outer circumference of the PS disk primarily emits light.
 </p>
 
 
-2.2 PS Stack
+<b>2.2 PS Stack</b><br>
 The PS stack consists of a stainless‑steel shaft (55 mm length, 3 mm diameter, threaded), a stainless base, and a blue resin nut. A required number of PS disks are inserted onto the shaft and fixed with the nut (Fig. 4). The stack shown in Fig. 4 contains 1,000 disks and is designed to fit inside a 20‑mL vial.
 
 <p align="center">
@@ -69,16 +69,16 @@ adjusting the nut tightness to control inter‑disk spacing, allowing a predeter
 
 In this study, the second method was used for evaluating the intrinsic performance of the PS stack.
 
-2.3 Absorption of HTO Water into the PS Stack
+<b>2.3 Absorption of HTO Water into the PS Stack</b><br>
 A pre‑weighed PS stack was placed in a vial, and sufficient HTO water was added to fully immerse the disks. Capillary action rapidly filled the inter‑disk gaps. The immersion time was set to 10 minutes, based on preliminary measurements showing that the absorbed mass reached constant weight within 1 minute.
 
 After absorption, the stack was removed and held horizontally. Gradual tightening of the nut caused excess HTO water to exude from between the disks. By repeating tightening and weighing, the absorbed mass was adjusted to the target value. Four PS stacks were prepared with HTO concentrations of 1.5, 23, 54, and 185 Bq/g, with absorbed masses ranging from approximately 0.7 to 1.0 g.
 
-2.4 LSC Measurement
+<b>2.4 LSC Measurement</b><br>
 Each adjusted PS stack was placed in a clean vial and measured using an ALOKA LSC‑7200 liquid scintillation counter. The measurement time was 10 minutes, repeated twice, and the average value was used. Background correction was performed using a PS stack that had absorbed ion‑exchanged water.
 
-3. Results and Discussion
-3.1 Relationship Between HTO Absorption, Counting Rate, and Counting Efficiency
+<b>3. Results and Discussion</b><br>
+<b>3.1 Relationship Between HTO Absorption, Counting Rate, and Counting Efficiency</b><br>
 Figure 5 shows the relationship among absorbed HTO mass (W_HTO), background‑corrected counting rate (H‑CPM), and counting efficiency (Eff.) for a PS stack loaded with 185 Bq/g HTO. As W_HTO decreased from approximately 1.0 g to 0.7 g, H‑CPM showed a slight decrease, whereas Eff. increased. These opposite trends are attributed to the reduction in HTO volume between disks. The decrease in H‑CPM is due to the reduced number of beta particles, while the increase in Eff. is interpreted as a higher fraction of HTO molecules located close enough to the scintillator to interact with the embedded fluor.
 
 <p align="center">
@@ -101,7 +101,7 @@ The maximum and average beta energies of tritium are 18.6 keV and 5.7 keV, with 
 <img src="images02/Fig6.png" width="500">
 </p>
 <p align="center" class="caption"> 
-  Fig. 6 Relationship between water absorption capacity (<i>W<sub>HTO</sub></i>/g) of PS stack and thickness of water film between PS disks (d/&mu;m).
+  Fig. 6 Relationship between water absorption capacity (<i>W<sub>HTO</sub></i>/g) of PS stack<br> and thickness of water film between PS disks (d/&mu;m).
 </p>
 
 
@@ -113,7 +113,7 @@ Assuming a uniform distribution of HTO within the water film, the farthest HTO m
 
 Attempts were made to further reduce d by tightening the nut, but for the 1,000‑disk stack used in this study, the minimum achievable W_HTO was 0.48 g (d ≈ 3 μm). This limitation is likely due to insufficient surface flatness of the PS disks, caused by the casting substrate or burrs generated during punching. Improvements to disk flatness are currently under investigation.
 
-3.2 Calibration Curve and Counting Efficiency
+<b>3.2 Calibration Curve and Counting Efficiency</b><br>
 Figure 7 shows the calibration curve obtained from four PS stacks adjusted to an absorbed mass of 0.8 g and loaded with HTO concentrations from 1.5 to 185 Bq/g. The calibration curve exhibited excellent linearity across this range. Counting efficiency decreased from 4.5% at 1.5 Bq/g to 2.0% at 185 Bq/g. The increase in Eff. at low concentrations is attributed to weak interactions between hydrophilized PS surfaces and HTO molecules.
 
 <p align="center">
@@ -149,7 +149,7 @@ The 30 μm and 40 μm stacks exhibited similar T‑CPM values across the tested 
 Device efficiency η, defined by Sanada et al. [1] as:
 
 <p align="center">
-<img src="images02/formula1.png" width="200">
+<img src="images02/Formula 1.png" width="200">
 </p>
 
 was calculated for each stack, and results are summarized in Table 1. All values were on the order of 10⁻² cps/Bq, approximately two orders of magnitude higher than previously reported disk‑type PS detectors. Device efficiency increased as W_HTO decreased, consistent with the trends observed in Eff. Among the three stacks, the 40 μm PS stack exhibited the highest device efficiency.
@@ -163,7 +163,7 @@ was calculated for each stack, and results are summarized in Table 1. All values
 
 
 
-4. Conclusion
+<b>4. Conclusion<b><br>
 The experimental results obtained in this study lead to the following conclusions:
 
 The hydrophobic surface of polyvinyltoluene‑based plastic scintillator (PS) was successfully modified to a hydrophilic state by plasma treatment.
@@ -174,10 +174,10 @@ The calibration curve obtained from four PS stacks showed good linearity over th
 
 For PS stacks with a fixed height of 30 mm, the T‑CPM values followed the trend 30 μm ≈ 40 μm > 50 μm. Based on device efficiency, a film thickness of approximately 40 μm was determined to be optimal.
 
-5. Acknowledgment
+<b>5. Acknowledgment</b><br>
 The authors express their sincere appreciation to Professor Kazuhiko Ninomiya, Director of the Radioisotope Research Center, Natural Science Center for Basic Research and Development, Hiroshima University, for his valuable support in conducting the LSC measurements.
 
-References
+<b>References</b><br>
 [1] Y. Sanada, T. Abe, et al., “Basic study on tritium monitor using plastic scintillator for treated water discharge at Fukushima Daiichi Nuclear Power Plant,” J. Nucl. Sci. Technol., 61(5), 693–702 (2024).
 [2] Y. Sanada et al., “Application of plastic scintillation fiber measurement technology to contaminated water management at Fukushima Daiichi Nuclear Power Station,” JAEA‑Research, 2016‑011.
 [3] T. Kawano, H. Ohashi, et al., “Comparative testing of various flow‑cell detectors fabricated using CaF₂ solid scintillator,” Fusion Sci. Technol., 67, 404–407 (2015).
