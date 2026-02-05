@@ -52,7 +52,7 @@ Figure 3 shows the scintillation behavior of a PS disk under 395‑nm UV irradia
 The PS stack consists of a stainless‑steel shaft (55 mm length, 3 mm diameter, threaded), a stainless base, and a blue resin nut. A required number of PS disks are inserted onto the shaft and fixed with the nut (Fig. 4). The stack shown in Fig. 4 contains 1,000 disks and is designed to fit inside a 20‑mL vial.
 
 <p align="center">
-<img src="images02/Fig4.png" width="600">
+<img src="images02/Fig4.png" width="200">
 </p>
 <p align="center" class="caption"> 
   Fig. 4 PS Stack loaded into a 20 mL vial.
@@ -156,7 +156,7 @@ was calculated for each stack, and results are summarized in Table 1. All values
   Table 1 Specifications of the tritium PS device. 
 </p>
 <p align="center">
-<img src="images02/Table1.png" width="600">
+<img src="images02/Table1.png" width="300">
 </p>
 
 
