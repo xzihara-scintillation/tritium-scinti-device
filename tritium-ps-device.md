@@ -1,10 +1,11 @@
 <b>English Translation of a Japanese Proceeding on a Hydrophilic Plastic‑Scintillator‑Based Tritium Detection Device</b><br>
-This page presents an English translation of a paper originally published in a Japanese domestic proceeding.
+<h1>This page presents an English translation of a paper originally published in a Japanese domestic proceeding.
 The study reports the fundamental experimental results of a plastic‑scintillator‑based detection device designed for cocktail‑free, continuous monitoring of tritiated water (HTO).
 The translation has been prepared by the author for broader accessibility.
 Proceedings of the 26th Workshop on Environmental Radioactivity
 <a href="https://rcwww.kek.jp/enviconf/information.html" target="_blank">
-https://rcwww.kek.jp/enviconf/information.html</a>
+https://rcwww.kek.jp/enviconf/information.html</a></h1>
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 <b>Abstract</b><br>
