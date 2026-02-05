@@ -43,7 +43,6 @@ Figure 3 shows the scintillation behavior of a PS disk under 395‑nm UV irradia
 <p align="center">
 <img src="images02/Fig3.png" width="600">
 </p>
-</p>
 <p align="center" class="caption"> 
   Fig. 3 Fluorescence characteristics of PS disks by UV irradiation - The outer circumference of the PS disk primarily emits light.
 </p>
@@ -54,7 +53,6 @@ The PS stack consists of a stainless‑steel shaft (55 mm length, 3 mm diameter,
 
 <p align="center">
 <img src="images02/Fig4.png" width="600">
-</p>
 </p>
 <p align="center" class="caption"> 
   Fig. 4 PS Stack loaded into a 20 mL vial.
@@ -84,7 +82,6 @@ Figure 5 shows the relationship among absorbed HTO mass (W_HTO), background‑co
 <p align="center">
 <img src="images02/Fig5.png" width="600">
 </p>
-</p>
 <p align="center" class="caption"> 
   Fig. 5 The relationship between storage amount, H-CPM, and counting efficiency (185 Bq/g).
 </p>
@@ -100,7 +97,6 @@ The maximum and average beta energies of tritium are 18.6 keV and 5.7 keV, with 
 
 <p align="center">
 <img src="images02/Fig6.png" width="600">
-</p>
 </p>
 <p align="center" class="caption"> 
   Fig. 6 Relationship between water absorption capacity (*W<sub>HTO</sub>*/g) of PS stack and thickness of water film between PS disks (d/&mu;m).
@@ -121,7 +117,6 @@ Figure 7 shows the calibration curve obtained from four PS stacks adjusted to an
 <p align="center">
 <img src="images02/Fig7.png" width="600">
 </p>
-</p>
 <p align="center" class="caption"> 
   Fig. 7 Calibration curve and counting efficiency in the range of 1.5 to 185 Bq/g.
 </p>
@@ -138,7 +133,6 @@ To investigate the effect of film thickness, PS stacks with disk thicknesses of 
 <p align="center">
 <img src="images02/Fig8.png" width="600">
 </p>
-</p>
 <p align="center" class="caption"> 
   Fig. 8 Relationship between PS disk thickness and T-CPM (185 Bq/g)
 </p>
@@ -152,8 +146,9 @@ The 30 μm and 40 μm stacks exhibited similar T‑CPM values across the tested 
 
 Device efficiency η, defined by Sanada et al. [1] as:
 
+<p align="center">
 ![Formula 1](images02/Formula1.png)
-
+</p>
 
 was calculated for each stack, and results are summarized in Table 1. All values were on the order of 10⁻² cps/Bq, approximately two orders of magnitude higher than previously reported disk‑type PS detectors. Device efficiency increased as W_HTO decreased, consistent with the trends observed in Eff. Among the three stacks, the 40 μm PS stack exhibited the highest device efficiency.
 
