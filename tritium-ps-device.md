@@ -149,7 +149,7 @@ The 30 μm and 40 μm stacks exhibited similar T‑CPM values across the tested 
 Device efficiency η, defined by Sanada et al. [1] as:
 
 <p align="center">
-<img src="images02/Formula 1.png" width="200">
+<img src="images02/Formula1.png" width="200">
 </p>
 
 was calculated for each stack, and results are summarized in Table 1. All values were on the order of 10⁻² cps/Bq, approximately two orders of magnitude higher than previously reported disk‑type PS detectors. Device efficiency increased as W_HTO decreased, consistent with the trends observed in Eff. Among the three stacks, the 40 μm PS stack exhibited the highest device efficiency.
@@ -163,7 +163,7 @@ was calculated for each stack, and results are summarized in Table 1. All values
 
 
 
-<b>4. Conclusion<b><br>
+<b>4. Conclusion</b><br>
 The experimental results obtained in this study lead to the following conclusions:
 
 The hydrophobic surface of polyvinyltoluene‑based plastic scintillator (PS) was successfully modified to a hydrophilic state by plasma treatment.
