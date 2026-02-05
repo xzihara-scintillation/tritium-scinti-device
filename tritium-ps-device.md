@@ -178,11 +178,11 @@ For PS stacks with a fixed height of 30 mm, the T‑CPM values followed the tren
 The authors express their sincere appreciation to Professor Kazuhiko Ninomiya, Director of the Radioisotope Research Center, Natural Science Center for Basic Research and Development, Hiroshima University, for his valuable support in conducting the LSC measurements.
 
 <b>References</b><br>
-[1] Y. Sanada, T. Abe, et al., “Basic study on tritium monitor using plastic scintillator for treated water discharge at Fukushima Daiichi Nuclear Power Plant,” J. Nucl. Sci. Technol., 61(5), 693–702 (2024).
-[2] Y. Sanada et al., “Application of plastic scintillation fiber measurement technology to contaminated water management at Fukushima Daiichi Nuclear Power Station,” JAEA‑Research, 2016‑011.
-[3] T. Kawano, H. Ohashi, et al., “Comparative testing of various flow‑cell detectors fabricated using CaF₂ solid scintillator,” Fusion Sci. Technol., 67, 404–407 (2015).
-[4] H. Yamamoto et al., “Development of a continuous tritium monitoring system for ALPS‑treated water from the Fukushima Daiichi Nuclear Power Plant accident,” Advances in X‑ray Chemical Analysis, 54, 101–110 (2023).
-[5] I. Adamovich et al., “The 2017 Plasma Roadmap: Low temperature plasma science and technology,” J. Phys. D: Appl. Phys., 50, 323001 (2017).
-[6] Y. Iriyama, “Durability of plasma treatment effects,” Surface Science, 28(8), 459–466 (2007).
-[7] H. Matsumoto et al., “Health effects triggered by tritium,” J. Radiat. Res., 62(4), 557–563 (2021).
-[8] Y. Sanada, K. Oshikiri, et al., “Development of a practical tritiated water monitor,” Nucl. Instrum. Methods Phys. Res. A, 1062, 169208 (2024).
+[1] Y. Sanada, T. Abe, et al., “Basic study on tritium monitor using plastic scintillator for treated water discharge at Fukushima Daiichi Nuclear Power Plant,” J. Nucl. Sci. Technol., 61(5), 693–702 (2024).<br>
+[2] Y. Sanada et al., “Application of plastic scintillation fiber measurement technology to contaminated water management at Fukushima Daiichi Nuclear Power Station,” JAEA‑Research, 2016‑011.<br>
+[3] T. Kawano, H. Ohashi, et al., “Comparative testing of various flow‑cell detectors fabricated using CaF₂ solid scintillator,” Fusion Sci. Technol., 67, 404–407 (2015).<br>
+[4] H. Yamamoto et al., “Development of a continuous tritium monitoring system for ALPS‑treated water from the Fukushima Daiichi Nuclear Power Plant accident,” Advances in X‑ray Chemical Analysis, 54, 101–110 (2023).<br>
+[5] I. Adamovich et al., “The 2017 Plasma Roadmap: Low temperature plasma science and technology,” J. Phys. D: Appl. Phys., 50, 323001 (2017).<br>
+[6] Y. Iriyama, “Durability of plasma treatment effects,” Surface Science, 28(8), 459–466 (2007).<br>
+[7] H. Matsumoto et al., “Health effects triggered by tritium,” J. Radiat. Res., 62(4), 557–563 (2021).<br>
+[8] Y. Sanada, K. Oshikiri, et al., “Development of a practical tritiated water monitor,” Nucl. Instrum. Methods Phys. Res. A, 1062, 169208 (2024).<br>
