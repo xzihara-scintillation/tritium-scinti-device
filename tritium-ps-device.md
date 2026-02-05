@@ -25,14 +25,18 @@ Figure 1 compares the water contact angles of untreated and plasma‑treated PS 
 <img src="images02/Fig1.png" width="600">
 </p>
 <p align="center" class="caption"> 
-  Fig. 1 Schematic diagram of the tritium PS device. 
+ Fig. 1 Comparison of contact angles of plasma untreated and treated films with water (10 &mu;mL). 
 </p>
 
 
 To evaluate capillary behavior, six PS disks were stacked and suspended as shown in Fig. 2 (left), with their lower end immersed in a rhodamine B aqueous solution. After 8 seconds (Fig. 2, right), the solution had risen between the disks due to two‑dimensional capillary action. This capillary effect is considered essential for continuous replacement of sample water during real‑time monitoring. The hydrophilic effect of the plasma treatment remained stable for at least one month.
 
-![Fig. 2](images02/Fig2.png)
-
+<p align="center">
+<img src="images02/Fig2.png" width="600">
+</p>
+<p align="center" class="caption"> 
+  Fig. 2 Due to two-dimensional capillary action, rhodamine B solution enters gaps between PS disks (completed in 8 seconds).
+</p>
 
 Figure 3 shows the scintillation behavior of a PS disk under 395‑nm UV irradiation. Stronger emission was observed along the outer circumference of the disk.
 
@@ -95,7 +99,14 @@ Device efficiency η, defined by Sanada et al. [1] as:
 
 was calculated for each stack, and results are summarized in Table 1. All values were on the order of 10⁻² cps/Bq, approximately two orders of magnitude higher than previously reported disk‑type PS detectors. Device efficiency increased as W_HTO decreased, consistent with the trends observed in Eff. Among the three stacks, the 40 μm PS stack exhibited the highest device efficiency.
 
-![Table 1](images02/Table1.png)
+<p class="caption" align="center"> 
+  Table 1 Specifications of the tritium PS device. 
+</p>
+<p align="center">
+<img src="images02/Table1.png" width="600">
+</p>
+
+
 
 4. Conclusion
 The experimental results obtained in this study lead to the following conclusions:
