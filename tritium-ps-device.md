@@ -158,9 +158,7 @@ Device efficiency *&epsilon;* (cps/Bq), defined by Sanada et al. [1] as:
 
 was calculated for each stack, and results are summarized in Table 1. All values were on the order of 10⁻² cps/Bq, approximately two orders of magnitude higher than previously reported disk‑type PS detectors. Device efficiency increased as W_HTO decreased, consistent with the trends observed in Eff. Among the three stacks, the 40 μm PS stack exhibited the highest device efficiency.
 
-<p class="caption" align="center"> 
-  Table 1 Specifications of the tritium PS device. 
-</p>
+
 <p align="center">
 <img src="images02/Table1.png" width="400">
 </p>
