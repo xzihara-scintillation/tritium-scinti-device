@@ -150,10 +150,10 @@ To investigate the effect of film thickness, PS stacks with disk thicknesses of 
 
 The 30 μm and 40 μm stacks exhibited similar T‑CPM values across the tested absorption range, whereas the 50 μm stack showed values approximately 20% lower. This difference is attributed mainly to the reduced total surface area. The ratio of surface areas between the 40 μm and 50 μm stacks closely matched the ratio of their T‑CPM values. For the 30 μm stack, increased optical scattering along the thin film likely reduced light transport efficiency.
 
-Device efficiency η, defined by Sanada et al. [1] as:
+Device efficiency &epsilon; (cps/Bq), defined by Sanada et al. [1] as:
 
 <p align="center">
-<img src="images02/Formula1.png" width="200">
+<img src="images02/Formula1.png" width="250">
 </p>
 
 was calculated for each stack, and results are summarized in Table 1. All values were on the order of 10⁻² cps/Bq, approximately two orders of magnitude higher than previously reported disk‑type PS detectors. Device efficiency increased as W_HTO decreased, consistent with the trends observed in Eff. Among the three stacks, the 40 μm PS stack exhibited the highest device efficiency.
