@@ -24,7 +24,7 @@ Thin PS films were fabricated from BC‑400 cast resin (polyvinyltoluene‑based
 Figure 1 compares the water contact angles of untreated and plasma‑treated PS surfaces. The untreated film exhibited a contact angle of 96°, whereas the plasma‑treated disk showed a reduced angle of 41°, confirming successful hydrophilization.
 
 <p align="center">
-<img src="images02/Fig1.png" width="600">
+<img src="images02/Fig1.png" width="500">
 </p>
 <p align="center" class="caption"> 
  Fig. 1 Comparison of contact angles of plasma untreated and treated films with water (10 &mu;L). 
@@ -34,7 +34,7 @@ Figure 1 compares the water contact angles of untreated and plasma‑treated PS 
 To evaluate capillary behavior, six PS disks were stacked and suspended as shown in Fig. 2 (left), with their lower end immersed in a rhodamine B aqueous solution. After 8 seconds (Fig. 2, right), the solution had risen between the disks due to two‑dimensional capillary action. This capillary effect is considered essential for continuous replacement of sample water during real‑time monitoring. The hydrophilic effect of the plasma treatment remained stable for at least one month.
 
 <p align="center">
-<img src="images02/Fig2.png" width="600">
+<img src="images02/Fig2.png" width="500">
 </p>
 <p align="center" class="caption"> 
   Fig. 2 Due to two-dimensional capillary action, rhodamine B solution enters gaps between PS disks (completed in 8 seconds).
@@ -43,7 +43,7 @@ To evaluate capillary behavior, six PS disks were stacked and suspended as shown
 Figure 3 shows the scintillation behavior of a PS disk under 395‑nm UV irradiation. Stronger emission was observed along the outer circumference of the disk.
 
 <p align="center">
-<img src="images02/Fig3.png" width="600">
+<img src="images02/Fig3.png" width="500">
 </p>
 <p align="center" class="caption"> 
   Fig. 3 Fluorescence characteristics of PS disks by UV irradiation - The outer circumference of the PS disk primarily emits light.
@@ -54,7 +54,7 @@ Figure 3 shows the scintillation behavior of a PS disk under 395‑nm UV irradia
 The PS stack consists of a stainless‑steel shaft (55 mm length, 3 mm diameter, threaded), a stainless base, and a blue resin nut. A required number of PS disks are inserted onto the shaft and fixed with the nut (Fig. 4). The stack shown in Fig. 4 contains 1,000 disks and is designed to fit inside a 20‑mL vial.
 
 <p align="center">
-<img src="images02/Fig4.png" width="200">
+<img src="images02/Fig4.png" width="150">
 </p>
 <p align="center" class="caption"> 
   Fig. 4 PS Stack loaded into a 20 mL vial.
@@ -82,7 +82,7 @@ Each adjusted PS stack was placed in a clean vial and measured using an ALOKA LS
 Figure 5 shows the relationship among absorbed HTO mass (W_HTO), background‑corrected counting rate (H‑CPM), and counting efficiency (Eff.) for a PS stack loaded with 185 Bq/g HTO. As W_HTO decreased from approximately 1.0 g to 0.7 g, H‑CPM showed a slight decrease, whereas Eff. increased. These opposite trends are attributed to the reduction in HTO volume between disks. The decrease in H‑CPM is due to the reduced number of beta particles, while the increase in Eff. is interpreted as a higher fraction of HTO molecules located close enough to the scintillator to interact with the embedded fluor.
 
 <p align="center">
-<img src="images02/Fig5.png" width="600">
+<img src="images02/Fig5.png" width="500">
 </p>
 <p align="center" class="caption"> 
   Fig. 5 The relationship between storage amount, H-CPM, and counting efficiency (185 Bq/g).
@@ -98,10 +98,10 @@ The scintillation detection scheme is considered as follows: beta particles emit
 The maximum and average beta energies of tritium are 18.6 keV and 5.7 keV, with corresponding ranges in water of approximately 6 μm and 0.56 μm, respectively [7, 8]. Figure 6 shows the relationship between W_HTO and the calculated water‑film thickness d between PS disks. At maximum absorption (0.94 g), d ≈ 5.5 μm, and at minimum absorption (0.66 g), d ≈ 4 μm.
 
 <p align="center">
-<img src="images02/Fig6.png" width="600">
+<img src="images02/Fig6.png" width="500">
 </p>
 <p align="center" class="caption"> 
-  Fig. 6 Relationship between water absorption capacity (&W<sub>HTO</sub>;/g) of PS stack and thickness of water film between PS disks (d/&mu;m).
+  Fig. 6 Relationship between water absorption capacity (<i>W<sub>HTO</sub></i>/g) of PS stack and thickness of water film between PS disks (d/&mu;m).
 </p>
 
 
@@ -117,7 +117,7 @@ Attempts were made to further reduce d by tightening the nut, but for the 1,000�
 Figure 7 shows the calibration curve obtained from four PS stacks adjusted to an absorbed mass of 0.8 g and loaded with HTO concentrations from 1.5 to 185 Bq/g. The calibration curve exhibited excellent linearity across this range. Counting efficiency decreased from 4.5% at 1.5 Bq/g to 2.0% at 185 Bq/g. The increase in Eff. at low concentrations is attributed to weak interactions between hydrophilized PS surfaces and HTO molecules.
 
 <p align="center">
-<img src="images02/Fig7.png" width="600">
+<img src="images02/Fig7.png" width="500">
 </p>
 <p align="center" class="caption"> 
   Fig. 7 Calibration curve and counting efficiency in the range of 1.5 to 185 Bq/g.
@@ -133,7 +133,7 @@ The overall counting efficiency was lower than that of conventional cocktail‑b
 To investigate the effect of film thickness, PS stacks with disk thicknesses of 30, 40, and 50 μm were prepared, each adjusted to a total stack height of 30 mm. The number of disks and total surface area were 967 disks / 1708 cm² (30 μm), 758 disks / 1339 cm² (40 μm), and 625 disks / 1104 cm² (50 μm). Results for 185 Bq/g HTO are shown in Fig. 8.
 
 <p align="center">
-<img src="images02/Fig8.png" width="600">
+<img src="images02/Fig8.png" width="500">
 </p>
 <p align="center" class="caption"> 
   Fig. 8 Relationship between PS disk thickness and T-CPM (185 Bq/g)
@@ -149,7 +149,7 @@ The 30 μm and 40 μm stacks exhibited similar T‑CPM values across the tested 
 Device efficiency η, defined by Sanada et al. [1] as:
 
 <p align="center">
-![Formula 1](images02/Formula1.png)
+<img src="images02/formula1.png" width="200">
 </p>
 
 was calculated for each stack, and results are summarized in Table 1. All values were on the order of 10⁻² cps/Bq, approximately two orders of magnitude higher than previously reported disk‑type PS detectors. Device efficiency increased as W_HTO decreased, consistent with the trends observed in Eff. Among the three stacks, the 40 μm PS stack exhibited the highest device efficiency.
@@ -158,7 +158,7 @@ was calculated for each stack, and results are summarized in Table 1. All values
   Table 1 Specifications of the tritium PS device. 
 </p>
 <p align="center">
-<img src="images02/Table1.png" width="350">
+<img src="images02/Table1.png" width="400">
 </p>
 
 
