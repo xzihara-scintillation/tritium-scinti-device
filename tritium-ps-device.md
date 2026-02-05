@@ -25,7 +25,7 @@ Figure 1 compares the water contact angles of untreated and plasma‑treated PS 
 <img src="images02/Fig1.png" width="600">
 </p>
 <p align="center" class="caption"> 
- Fig. 1 Comparison of contact angles of plasma untreated and treated films with water (10 &mu;mL). 
+ Fig. 1 Comparison of contact angles of plasma untreated and treated films with water (10 &mu;L). 
 </p>
 
 
@@ -40,12 +40,26 @@ To evaluate capillary behavior, six PS disks were stacked and suspended as shown
 
 Figure 3 shows the scintillation behavior of a PS disk under 395‑nm UV irradiation. Stronger emission was observed along the outer circumference of the disk.
 
-![Fig. 3](images02/Fig3.png)
+<p align="center">
+<img src="images02/Fig3.png" width="600">
+</p>
+</p>
+<p align="center" class="caption"> 
+  Fig. 3 Fluorescence characteristics of PS disks by UV irradiation - The outer circumference of the PS disk primarily emits light.
+</p>
+
 
 2.2 PS Stack
 The PS stack consists of a stainless‑steel shaft (55 mm length, 3 mm diameter, threaded), a stainless base, and a blue resin nut. A required number of PS disks are inserted onto the shaft and fixed with the nut (Fig. 4). The stack shown in Fig. 4 contains 1,000 disks and is designed to fit inside a 20‑mL vial.
 
-![Fig. 4](images02/Fig4.png)
+<p align="center">
+<img src="images02/Fig4.png" width="600">
+</p>
+</p>
+<p align="center" class="caption"> 
+  Fig. 4 PS Stack loaded into a 20 mL vial.
+</p>
+
 
 Two methods were considered for introducing sample water into the PS stack during measurement:
 
@@ -67,13 +81,35 @@ Each adjusted PS stack was placed in a clean vial and measured using an ALOKA LS
 3.1 Relationship Between HTO Absorption, Counting Rate, and Counting Efficiency
 Figure 5 shows the relationship among absorbed HTO mass (W_HTO), background‑corrected counting rate (H‑CPM), and counting efficiency (Eff.) for a PS stack loaded with 185 Bq/g HTO. As W_HTO decreased from approximately 1.0 g to 0.7 g, H‑CPM showed a slight decrease, whereas Eff. increased. These opposite trends are attributed to the reduction in HTO volume between disks. The decrease in H‑CPM is due to the reduced number of beta particles, while the increase in Eff. is interpreted as a higher fraction of HTO molecules located close enough to the scintillator to interact with the embedded fluor.
 
-![Fig. 5](images02/Fig5.png)
+<p align="center">
+<img src="images02/Fig5.png" width="600">
+</p>
+</p>
+<p align="center" class="caption"> 
+  Fig. 5 The relationship between storage amount, H-CPM, and counting efficiency (185 Bq/g).
+</p>
+
+
+
+
+
 
 The scintillation detection scheme is considered as follows: beta particles emitted from HTO located on or near the disk surfaces interact with the fluor in the PS, generating scintillation light that propagates mainly toward the disk circumference and reaches the LSC photodetector through the vial wall.
 
 The maximum and average beta energies of tritium are 18.6 keV and 5.7 keV, with corresponding ranges in water of approximately 6 μm and 0.56 μm, respectively [7, 8]. Figure 6 shows the relationship between W_HTO and the calculated water‑film thickness d between PS disks. At maximum absorption (0.94 g), d ≈ 5.5 μm, and at minimum absorption (0.66 g), d ≈ 4 μm.
 
-![Fig. 6](images02/Fig6.png)
+<p align="center">
+<img src="images02/Fig6.png" width="600">
+</p>
+</p>
+<p align="center" class="caption"> 
+  Fig. 6 Relationship between water absorption capacity (*W<sub>HTO</sub>*/g) of PS stack and thickness of water film between PS disks (d/&mu;m).
+</p>
+
+
+
+
+
 
 Assuming a uniform distribution of HTO within the water film, the farthest HTO molecules are located at d/2 from either disk surface. For d = 5.5 μm, this distance is 2.75 μm. Only the highest‑energy beta particles can traverse this distance, whereas the majority—near the average energy—have a much shorter range (~0.56 μm). Therefore, reducing d to approximately twice the average beta range (~1.12 μm) is expected to maximize Eff. by increasing the fraction of beta particles reaching the scintillator.
 
@@ -82,13 +118,35 @@ Attempts were made to further reduce d by tightening the nut, but for the 1,000�
 3.2 Calibration Curve and Counting Efficiency
 Figure 7 shows the calibration curve obtained from four PS stacks adjusted to an absorbed mass of 0.8 g and loaded with HTO concentrations from 1.5 to 185 Bq/g. The calibration curve exhibited excellent linearity across this range. Counting efficiency decreased from 4.5% at 1.5 Bq/g to 2.0% at 185 Bq/g. The increase in Eff. at low concentrations is attributed to weak interactions between hydrophilized PS surfaces and HTO molecules.
 
-![Fig. 7](images02/Fig7.png)
+<p align="center">
+<img src="images02/Fig7.png" width="600">
+</p>
+</p>
+<p align="center" class="caption"> 
+  Fig. 7 Calibration curve and counting efficiency in the range of 1.5 to 185 Bq/g.
+</p>
+
+
+
+
+
 
 The overall counting efficiency was lower than that of conventional cocktail‑based LSC. In cocktail systems, both fluor and HTO are uniformly mixed, enabling efficient energy transfer. In contrast, in the PS stack, fluor is confined within the PS disks, and beta particles must reach the disk surface to generate scintillation, making the geometry inherently less favorable.
 
 To investigate the effect of film thickness, PS stacks with disk thicknesses of 30, 40, and 50 μm were prepared, each adjusted to a total stack height of 30 mm. The number of disks and total surface area were 967 disks / 1708 cm² (30 μm), 758 disks / 1339 cm² (40 μm), and 625 disks / 1104 cm² (50 μm). Results for 185 Bq/g HTO are shown in Fig. 8.
 
-![Fig. 8](images02/Fig8.png)
+<p align="center">
+<img src="images02/Fig8.png" width="600">
+</p>
+</p>
+<p align="center" class="caption"> 
+  Fig. 8 Relationship between PS disk thickness and T-CPM (185 Bq/g)
+</p>
+
+
+
+
+
 
 The 30 μm and 40 μm stacks exhibited similar T‑CPM values across the tested absorption range, whereas the 50 μm stack showed values approximately 20% lower. This difference is attributed mainly to the reduced total surface area. The ratio of surface areas between the 40 μm and 50 μm stacks closely matched the ratio of their T‑CPM values. For the 30 μm stack, increased optical scattering along the thin film likely reduced light transport efficiency.
 
