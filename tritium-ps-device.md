@@ -21,7 +21,13 @@ Thin PS films were fabricated from BC‑400 cast resin (polyvinyltoluene‑based
 
 Figure 1 compares the water contact angles of untreated and plasma‑treated PS surfaces. The untreated film exhibited a contact angle of 96°, whereas the plasma‑treated disk showed a reduced angle of 41°, confirming successful hydrophilization.
 
+<p align="center">
 ![Fig. 1](images02/Fig1.png)
+</p>
+<p align="center" class="caption"> 
+  Fig. 1 Schematic diagram of the tritium PS device. 
+</p>
+
 
 To evaluate capillary behavior, six PS disks were stacked and suspended as shown in Fig. 2 (left), with their lower end immersed in a rhodamine B aqueous solution. After 8 seconds (Fig. 2, right), the solution had risen between the disks due to two‑dimensional capillary action. This capillary effect is considered essential for continuous replacement of sample water during real‑time monitoring. The hydrophilic effect of the plasma treatment remained stable for at least one month.
 
