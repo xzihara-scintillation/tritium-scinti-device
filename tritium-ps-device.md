@@ -3,6 +3,8 @@ This page presents an English translation of a paper originally published in a J
 The study reports the fundamental experimental results of a plastic‑scintillator‑based detection device designed for cocktail‑free, continuous monitoring of tritiated water (HTO).
 The translation has been prepared by the author for broader accessibility.
 
+----------------------------------------------------------------------------------------------------------------------------
+
 Abstract
 A hydrophilic plastic scintillator (PS) device was developed for cocktail‑free, continuous monitoring of tritiated water (HTO) in treated water discharged from the Fukushima Daiichi Nuclear Power Plant. Thin PS films fabricated from BC‑400 resin were plasma‑treated to enhance surface hydrophilicity and stacked to form a multilayer detection structure. Capillary‑driven water uptake between films enabled efficient contact between HTO and the scintillator. Fundamental performance was evaluated using liquid scintillation counting (LSC) by varying HTO concentration, absorbed water mass, and PS film thickness. The calibration curve exhibited good linearity from 1.5 to 185 Bq/g, with counting efficiency decreasing from 4.5% to 2.0% across this range. Among film thicknesses of 30, 40, and 50 μm, the 40 μm PS stack demonstrated the highest device efficiency. These results indicate that plasma‑treated PS stacks are a promising platform for continuous tritium monitoring without the use of liquid scintillation cocktails.
 
@@ -156,7 +158,7 @@ was calculated for each stack, and results are summarized in Table 1. All values
   Table 1 Specifications of the tritium PS device. 
 </p>
 <p align="center">
-<img src="images02/Table1.png" width="300">
+<img src="images02/Table1.png" width="350">
 </p>
 
 
