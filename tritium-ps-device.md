@@ -22,7 +22,7 @@ Thin PS films were fabricated from BC‑400 cast resin (polyvinyltoluene‑based
 Figure 1 compares the water contact angles of untreated and plasma‑treated PS surfaces. The untreated film exhibited a contact angle of 96°, whereas the plasma‑treated disk showed a reduced angle of 41°, confirming successful hydrophilization.
 
 <p align="center">
-![Fig. 1](images02/Fig1.png)
+<img src="images02/Fig1.png" width="600">
 </p>
 <p align="center" class="caption"> 
   Fig. 1 Schematic diagram of the tritium PS device. 
